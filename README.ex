@@ -4,7 +4,8 @@ This is intended to be a personal learning project for charming Rocket.Chat with
 
 # Usage
 
-juju deploy <path to rocketchat charm code>
+charm build  # from the rocketchat code directory
+juju deploy <local path to newly built charm>
 
 You can then browse to http://ip-address:3000
 
