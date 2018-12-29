@@ -1,0 +1,12 @@
+includes:
+  - layer:basic
+  - layer:snap
+options:
+  snap:
+    rocketchat-server:
+      channel: stable
+      devmode: false
+      jailmode: false
+      dangerous: false
+      classic: false
+      revision: null

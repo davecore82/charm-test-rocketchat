@@ -1,0 +1,10 @@
+name: rocketchat
+summary: The ultimate Free Open Source Solution for team communications
+maintainer: David Coronel <david.coronel@canonical.com>
+description: |
+  Have your own Slack like online chat, built with Meteor.
+tags:
+  - social
+subordinate: false
+series:
+  - bionic
